@@ -1,0 +1,1 @@
+Tämä on esimerkkisisältö tiedostoon komentorivi.txt.
